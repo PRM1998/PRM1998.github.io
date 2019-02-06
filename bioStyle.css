@@ -1,0 +1,19 @@
+/******************** 
+Philip Miljanic
+Comp20 
+Assignment 1
+indexStyle.css
+********************/
+
+body{
+	font-family: Arial;
+	background-color: lightgreen;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-decoration: underline;
+}
