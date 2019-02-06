@@ -23,6 +23,10 @@ h3{
 	font-style: italic;
 }
 
+#ind1, #ind2, #ind3, #ind4{
+	list-style-type: lower-alpha;
+}
+
 #pub{
 	font-style: italic;
 }
